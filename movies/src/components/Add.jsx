@@ -1,7 +1,4 @@
- 
-
-
-import React, { useState } from "react";
+ import React, { useState } from "react";
 import ResultCart from "./ResultCart.jsx";
 
 const Add = () => {
